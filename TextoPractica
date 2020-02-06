@@ -1,4 +1,8 @@
 Esta es la primera línea MODIFICADA del Alumno A
+<<<<<<< HEAD
 Esta es la segunda línea del Alumno A Modificada por A
+=======
+Esta es la segunda línea del Alumno A modificada por el B
+>>>>>>> 3a94065892ebc24dda9de02114b0d21c7ea46019
 Esta es la primera MODIFICADA línea del Alumno B
 Esta es la segunda línea del Alumno B
